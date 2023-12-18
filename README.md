@@ -1,6 +1,6 @@
 # CS230-TheGamingRoomJournal
 # Project Overview: The Gaming Room Client & Software Requirements
-The Gaming Room had a unique software requirement for their game Draw It or Lose It. As a Technology Consultant, my primary task was to develop a web-based game that could operate seamlessly across multiple platforms. The client's vision was a game inspired by their existing title, "Draw It or Lose It," resembling the 1980s television game "Win, Lose or Draw." The game's core mechanic involves rendering images from a stock library as clues for teams to guess a phrase, title, or thing within a set time limit.
+The Gaming Room had a unique software requirement for their game Draw It or Lose It. As a Technology Consultant, my primary task was to develop a web-based game that could operate seamlessly across multiple platforms. The client's vision was a game resembling the 1980s television game "Win, Lose or Draw." The game's core mechanic involves rendering images from a stock library as clues for teams to guess a phrase, title, or thing within a set time limit.
 # Achievements
 My strongest contribution was in the section of the design document where I made recomendations for operating platforms. I effectively balanced The Gaming Room's immediate needs with considerations for scalable future growth and cost-effective solutions.
 # Design Document Process & Its Impact on Development
